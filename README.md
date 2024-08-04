@@ -50,7 +50,7 @@ Where
 
 - The `erasure_form` can be `u` (unbiased), `n` (biased with native gates), or `b` (biased with bias-preserving gates).
 
-- `no_of_samples` determines the number of Monte Carlo samples collected for each ($d$,$p$) combination
+- `no_of_samples` determines the number of Monte Carlo samples collected for each ($d$, $p$ ) combination
 
 - `rand_seed` determines the starting random seed for the sampling
 
